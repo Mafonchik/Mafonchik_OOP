@@ -9,3 +9,4 @@
 | №4, В-10 | <span style="color:red">Не сделано</span> |
 | №5, В-6 | <span style="color:red">Не сделано</span> |
 | №6, В-17 | <span style="color:red">Не сделано</span> |
+| №7, В-7 | <span style="color:red">Не сделано</span> |
